@@ -1,0 +1,2 @@
+variable "docbd" {}
+variable "env" {}
