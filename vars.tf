@@ -1,3 +1,3 @@
-variable "docbd" {}
+variable "docdb" {}
 variable "env" {}
 variable "subnets" {}
